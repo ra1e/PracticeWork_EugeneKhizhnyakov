@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\zhiek\OneDrive\Desktop\Программирование\С\Project42\Source.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zhiek\OneDrive\Desktop\Программирование\С\Project42\Source.cpp(9): warning C4101: c: неиспользованная локальная переменная
+C:\Users\zhiek\OneDrive\Desktop\Программирование\С\Project42\Source.cpp(9): warning C4101: d: неиспользованная локальная переменная
+  Project42.vcxproj -> C:\Users\zhiek\OneDrive\Desktop\Программирование\С\Project42\Debug\Project42.exe
